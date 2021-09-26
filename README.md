@@ -7,8 +7,7 @@
 
 - 🔭 I just start a startup company named: [Lmastan Technologies][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to traveling around the world.
 
 ### Connect with me:
