@@ -1,12 +1,12 @@
-### Hi there 👋, my name is Shujaat Ali
-#### Software Engineer
-![Software Engineer](https://www.qsstechnosoft.com/wp-content/uploads/2019/05/Distributed-Version-Control-Banner-min-1.png)
+### Hi there 👋, Shujaat Ali  - Fullstack JavaScript Engineer with a focus on React js
 
-an experienced software engineer having expertise in Java and react js development working across multiple technologies have helped me to stay abreast of new developments within the industry. Versatility in quickly adapting to new coding conventions is combined with a 'can-do' attitude.
+#### About Me
 
-I’m truly passionate about my work and always excited to connect with other developers. While I enjoy all aspects of my job, I think my favorite stage of a project is designing the real world scenarios into the computerized world, during this stages I learn different things related to the real world and also computer world.
+I am Shujaat Ali, a professional and experienced full-stack web developer with over 5 years of hands-on experience in JavaScript and TypeScript, including React JS, Next JS, and Node.js. I am currently part of an agile development team, where I am responsible for developing scalable and reliable applications using React JS, Next JS, Jest, and Node js in various environments.
 
-Skills: Java / REACT / JS / HTML / CSS
+I have a strong interest in working with cutting-edge technologies, such as JavaScript, TypeScript, React JS, Next JS, Remix JS, Node.js, Java Spring, Storybook, Jest, React Testing Library, PWA, Vite, Webpack, REST APIs, MySQL, PostgreSQL, MongoDB, Web Sockets, AWS Cloud, GitHub Actions, Docker, Kubernetes, Nginx, Tomcat, TDD, Postman, and Agile Scrum/Kanban.
+
+I have a proven track record of delivering high-quality solutions across various industries for both Asian and American companies in fast-paced environments. I am a quick learner and embrace new challenges with a strong passion for building and debugging secure, reliable, high-availability, and performant services.
 
 - 🔭 I’m currently working on lamstan-eschool 
 - 🌱 I’m currently learning Python and project management  
