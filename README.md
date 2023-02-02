@@ -8,11 +8,11 @@ I have a strong interest in working with cutting-edge technologies, such as Java
 
 I have a proven track record of delivering high-quality solutions across various industries for both Asian and American companies in fast-paced environments. I am a quick learner and embrace new challenges with a strong passion for building and debugging secure, reliable, high-availability, and performant services.
 
-- 🔭 I’m currently working on lamstan-eschool 
-- 🌱 I’m currently learning Python and project management  
+- 🔭 I’m currently working on Tour Management 
+- 🌱 I’m currently learning Docker , Kubernetes and Next js   
 - 👯 I’m looking to collaborate on open source projects 
 - 💬 Ask me about TDD,React js and Java 
-- 📫 How to reach me: +925379166 
+- 📫 How to reach me: +923425379166 
 - ⚡ Fun fact: I am exploring Skardu Mountains  
 
 
