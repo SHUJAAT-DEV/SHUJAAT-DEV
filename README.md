@@ -1,4 +1,4 @@
-### Hi there 👋, Shujaat Ali  - Fullstack JavaScript Engineer with a focus on React js
+### Hi there 👋, Shujaat Ali  - Fullstack JavaScript Engineer with a focus on React js ,Nest js and Spring boot
 
 #### About Me
 
